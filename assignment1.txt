@@ -1,0 +1,57 @@
+1.Various Sources of Big Data
+
+There are many sources available for Big Data.Some of them are listed below
+
+*Stocks
+*Search Engine
+*Docs
+*Social Media
+*Public Web
+*Data Storage
+
+2.3V's of Big data
+
+  The 3V's of Big Data are
+
+ *Volume
+ *Variety
+ *Velocity
+
+VOLUME-Volume refers to the size of the data.As there are mutiple sources for
+                  big data the size tends to increase with time.And big data refers to large amount 
+                  of data and hence volume is an important characteristic of big data
+
+VARIETY-There are three types of data
+                                     *Structured data
+                                     *Unstructured data
+                                     *Semi structured data
+    And also there are different forms in which data can be stored(.html files,.txt files,video files,audio files)
+    Such varities of data forms a big data
+
+VELOCITY-Velocity refers to speed.
+                    Data is growing at a fast rate .
+                    Such fast growing data is referred as big data
+
+3.Horizontal Scaling and Vertical Scaling
+
+Horizontal Scaling: Adding multiple machines to your available resources in order
+                                   to improve performance is known as Horizontal Scaling.
+                                  It deals with the partitioning of data.We can dynamically 
+                                  scale using horizontal scaling.
+
+Vertical Scaling     : The scaling which is performed by adding more power to
+                                   a system is known as vertical scaling.Dynamic scaling is not 
+                                   possible in vertical scaling since it deals with a single system                                
+
+4.Need and Working of Hadoop
+
+    Hadoop is basically a framework which is designed for the processing and storing
+of large amounts of data across various clusters and then it analyses each cluster.
+It is used for scaling up from a single server to multiple machines to increase the
+efficiency of storage.Hadoop is basically a tool to handle big data
+
+Working:
+                HDFS is used to write the data once and to read it many times.Hadoop works by having
+a single namenode and multiple datanodes.
+
+
